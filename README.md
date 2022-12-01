@@ -1,8 +1,6 @@
-## Project Name & Pitch
+## Project Name : Mertstore
 
-#### Mertstore
-
-An e-commercial website built with React, Redux, Strapi, MySQL, JavaScript, and CSS.
+## An e-commercial website built with React, Redux, Strapi, MySQL, JavaScript, and CSS.
 
 ## Project Status
 
